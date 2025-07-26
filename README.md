@@ -35,3 +35,4 @@ You can choose from the following algorithms:
 ## 📜 License
 
 MIT License – BYLICKILABS 2025
+[LICENSE](LICENSE)
